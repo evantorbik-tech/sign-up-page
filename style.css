@@ -1,8 +1,13 @@
+body{
+    background-image: url(download.jpg);
+    
+}
+
 .one {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    padding-left: 500px;
+    padding-left: 1000px;
 }
 
 
@@ -10,3 +15,14 @@
     display: flex;
     flex-direction: column;
 }
+
+.five{
+background-color: white;
+}
+
+button{
+    margin-left: 1183px;
+    margin-top: 15px;
+    background-color:  ;
+}
+
