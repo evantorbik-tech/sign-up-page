@@ -1,31 +1,11 @@
 body{
     background-image: url(pexels-francesco-ungaro-1525041.jpg);
-    
 }
 
-
-.one {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    padding-left: 1000px;
-}
-
-
-.two{
+.one{
     display: flex;
     flex-direction: column;
-}
-
-.five{
-    margin-left: 1000px;
+    
     background-color: white;
-    padding: 10px;
-}
 
-button{
-    margin-left: 1183px;
-    margin-top: 15px;
-    background-color:  ;
 }
-
