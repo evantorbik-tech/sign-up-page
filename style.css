@@ -5,7 +5,40 @@ body{
 .one{
     display: flex;
     flex-direction: column;
-    
     background-color: white;
+    border-radius: 15px;
+    padding-bottom: 50px;
+}
 
+.two{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.three{
+    display: flex;
+    flex-direction: column;
+}
+
+.four{
+    display: flex;
+    flex-direction: column;
+}
+
+.five{
+    display: flex;
+    justify-content: center;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.button{
+    padding-top: 12px;
+    padding-left: 504px;
+    padding-bottom: 12px;
+}
+button{
+    background-color: rgb(10, 105, 53);
+    color: skyblue;
 }
